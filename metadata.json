@@ -2,7 +2,7 @@
   "name": "eyp-havp",
   "version": "0.1.0",
   "author": "eyp",
-  "summary": null,
+  "summary": "HTTP Antivirus Proxy",
   "license": "Apache-2.0",
   "source": "https://github.com/NTTCom-MS/eyp-havp",
   "project_page": null,
