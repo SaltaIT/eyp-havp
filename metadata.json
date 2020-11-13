@@ -1,6 +1,6 @@
 {
   "name": "eyp-havp",
-  "version": "0.1.1",
+  "version": "1.0.1",
   "author": "Jordi Prats",
   "summary": "HTTP Antivirus Proxy",
   "license": "Apache-2.0",
